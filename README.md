@@ -1,0 +1,1 @@
+# gen-ai-django-celery-redis
